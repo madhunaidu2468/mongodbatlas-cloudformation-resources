@@ -60,6 +60,16 @@
         "/properties/Id"
     ],
     "handlers": {
+        "create": {
+            "permissions": [
+                ""
+            ]
+        },
+        "read": {
+            "permissions": [
+                ""
+            ]
+        },
         "delete": {
             "permissions": [
                 ""
